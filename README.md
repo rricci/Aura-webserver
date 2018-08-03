@@ -1,1 +1,1 @@
-# Aura-webserver
+# Webserver offering a login/password authentication service
